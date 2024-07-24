@@ -1,0 +1,11 @@
+.FilmManage {
+    .ant-table-thead>tr>th {
+        text-align: center;
+        color: seagreen;
+    }
+
+    .ant-table-tbody>tr>td {
+        word-wrap: break-word;
+        max-width: 10px;
+    }
+}

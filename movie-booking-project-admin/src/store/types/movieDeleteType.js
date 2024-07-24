@@ -1,0 +1,1 @@
+export const DELETE_MOVIELIST = 'DELETE_MOVIELIST'

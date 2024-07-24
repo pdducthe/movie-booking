@@ -1,0 +1,12 @@
+.UserManage {
+    .ant-table-thead>tr>th {
+        text-align: center;
+        color: seagreen;
+        height:50px;
+    }
+
+    .ant-table-tbody>tr>td {
+        word-wrap: break-word;
+        max-width: 10px;
+    }
+}

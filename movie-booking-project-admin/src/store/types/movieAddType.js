@@ -1,0 +1,1 @@
+export const ADD_MOVIELIST = 'ADD_MOVIELIST'

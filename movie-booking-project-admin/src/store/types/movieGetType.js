@@ -1,0 +1,1 @@
+export const GET_MOVIEINFO = 'GET_MOVIEINFO'
