@@ -12,13 +12,13 @@ import SpinnerPage from "./Component/SpinnerPage/SpinnerPage";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDWvzp5-lt7IEPhJSur1m2L_4Eh4wjUdLk",
-  authDomain: "movieproject-8af40.firebaseapp.com",
-  projectId: "movieproject-8af40",
-  storageBucket: "movieproject-8af40.appspot.com",
-  messagingSenderId: "1095404667536",
-  appId: "1:1095404667536:web:fd1798feb230b804dfce15",
-  measurementId: "G-9X3BM3DLD6",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
 };
 
 // Initialize Firebase
